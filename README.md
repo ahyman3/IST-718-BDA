@@ -1,7 +1,7 @@
 # IST-718-BDA
 School Work
 
-#Notebook File Descriptions
+# Notebook File Descriptions
 Final Project/DB Config.ipynb - Configuration of the MongoDB for data management
 Final Project/CNN and VGG16 Classifier.ipynb - Tensorflow CNN made from scratch and VGG16 Classifier
 Final Project/DenseNet Transfer Learning.ipynb - DenseNet Transfer learning training
